@@ -30,7 +30,7 @@ else:
 #    st.write(df)
 
 #df = pd.read_excel('券池_v1.xlsx',sheet_name = 'Sheet1',header = 0)
-#st.dataframe(df)
+st.dataframe(df)
 
 st.markdown("""---""") #### 分割线
 st.subheader('精确搜索')
