@@ -10,7 +10,7 @@ import io
 
 buffer = io.BytesIO()
 
-st.set_page_config(page_title='安信EDS内部') # 设置网页标题
+st.set_page_config(page_title='表格分析') # 设置网页标题
 st.header('$券池&大宗池$')# 设置网页子标题
 
 st.markdown("""---""") #### 分割线
